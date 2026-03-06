@@ -17,7 +17,7 @@
   <a href="mailto:khlfaalhsn5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/khalifa-al-hasan-a118562a0">
+  <a href="https://www.linkedin.com/in/khalifaalhasan">
     <img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portofolio-al-ten.vercel.app">
