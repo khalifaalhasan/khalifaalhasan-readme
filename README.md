@@ -13,9 +13,9 @@
 
 *I ship production systems — not just prototypes.*
 
-[![Gmail](https://img.shields.io/badge/khlfaalhsn5%40gmail.com-111?style=flat-square&logo=gmail&logoColor=white)](mailto:khlfaalhsn5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/khalifaalhasan-111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalifaalhasan)
-[![Portfolio](https://img.shields.io/badge/portofolio--al--ten.vercel.app-111?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-al-ten.vercel.app)
+[![Gmail](https://img.shields.io/badge/khlfaalhsn5%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khlfaalhsn5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/khalifaalhasan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalifaalhasan)
+[![Portfolio](https://img.shields.io/badge/khalifaalhasan.my.id-000000?style=flat-square&logo=vercel&logoColor=white)](https://khalifaalhasan.my.id)
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khalifaalhasan.khalifaalhasan)](https://github.com/khalifaalhasan)
 
 </div>
