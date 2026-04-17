@@ -119,7 +119,7 @@ MinIO      ███████░░░  S3-compatible, self-hosted
 |--------|------|
 | 📧 Email | [khlfaalhsn5@gmail.com](mailto:khlfaalhsn5@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/khalifaalhasan](https://www.linkedin.com/in/khalifaalhasan) |
-| 🌐 Portfolio | [portofolio-al-ten.vercel.app](https://portofolio-al-ten.vercel.app) |
+| 🌐 Portfolio | [khalifaalhasan.my.id](https://khalifaalhasan.my.id) |
 
 ---
 
